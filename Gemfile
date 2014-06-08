@@ -13,6 +13,7 @@ gem 'bootstrap-sass'
 gem 'mini_magick', '3.5.0'
 gem 'carrierwave'
 gem 'devise'
+gem 'gravtastic'
 gem 'spring',        group: :development
 
 
